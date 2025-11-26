@@ -1,2 +1,2 @@
 # MIFTr
-MIFTr-net: Modality-Invariant Feature Transformer for Efficiently Universal Image Matching
+MIFTr-net: Efficient Universal Image Matching with Modality-Invariant Feature Transformer
