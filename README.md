@@ -16,11 +16,19 @@ If you have any queries or suggestions, please do not hesitate to contact me (ga
 
 
 ## 📦 Datasets Release
+
+*** Training database ***
+
+Google Drive: <!--https://drive.google.com/file/d/-->
+
+Baidu Netdisk: <!--https://pan.baidu.com/s/-->
+
+
 *** Expanded MRSI dataset ***
 
-Google Drive: https://drive.google.com/file/d/
+Google Drive: <!--https://drive.google.com/file/d/-->
 
-Baidu Netdisk: https://pan.baidu.com/s/
+Baidu Netdisk: <!--https://pan.baidu.com/s/-->
 
 
 ## 📚 Citation
