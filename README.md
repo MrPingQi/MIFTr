@@ -30,7 +30,7 @@ Baidu Netdisk: <!--https://pan.baidu.com/s/-->
 
 ![image](misc/data_train.jpg)
 
-Google Drive: <!--https://drive.google.com/file/d/-->
+Google Drive: https://drive.google.com/drive/folders/1sMWudiDA2u7STSZuzm0Pg0IxtzNyYkeq?usp=sharing
 
 Baidu Netdisk: https://pan.baidu.com/s/1jtLJpzS-PvJDvDrxT2uWgw?pwd=1hup
 
