@@ -30,7 +30,7 @@ Baidu Netdisk: <!--https://pan.baidu.com/s/-->
 
 Google Drive: <!--https://drive.google.com/file/d/-->
 
-Baidu Netdisk: <!--https://pan.baidu.com/s/-->
+Baidu Netdisk: https://pan.baidu.com/s/1jtLJpzS-PvJDvDrxT2uWgw?pwd=1hup
 
 
 *** Expanded MRSI dataset ***
