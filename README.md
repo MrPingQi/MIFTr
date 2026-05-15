@@ -28,6 +28,8 @@ Baidu Netdisk: <!--https://pan.baidu.com/s/-->
 
 *** Training database ***
 
+![image](misc/data_train.jpg)
+
 Google Drive: <!--https://drive.google.com/file/d/-->
 
 Baidu Netdisk: https://pan.baidu.com/s/1jtLJpzS-PvJDvDrxT2uWgw?pwd=1hup
