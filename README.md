@@ -19,9 +19,9 @@ If you have any queries or suggestions, please do not hesitate to contact me (ga
 
 ## 💾 Model Weights
 
-Google Drive: <!--https://drive.google.com/drive/folders/-->
+Google Drive: https://drive.google.com/drive/folders/1Sr08M5Y-XbbJ4BHd56mFSMZJRafU2ZjM?usp=sharing
 
-Baidu Netdisk: <!--https://pan.baidu.com/s/-->
+Baidu Netdisk: https://pan.baidu.com/s/1kEnlfmo90BcMQwX9WYn5Rg?pwd=mift
 
 
 ## 📦 Datasets Release
