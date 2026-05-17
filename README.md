@@ -36,11 +36,17 @@ Baidu Netdisk: https://pan.baidu.com/s/1eZ3wjIBBCAs0FgGgvpniMA?pwd=bit6
 
 <br>
 
-*** Expanded MRSI dataset ***
+*** Expanded MRSI<sup>[1-2]</sup> dataset ***
 
 Google Drive: https://drive.google.com/drive/folders/1brDGGpvba_ZhobotgSk4vWuNWIhdtbHy?usp=sharing
 
 Baidu Netdisk: https://pan.baidu.com/s/1UQcyX722a6nP5Jw8ykbUzQ?pwd=mrsi
+
+<br>
+
+*[1] J. Li, Q. Hu, and M. Ai, “RIFT: Multi-modal image matching based on radiation-variation insensitive feature transform,” IEEE Transactions on Image Processing, vol. 29, pp. 3296–3310, 2019.*
+
+*[2] Y. Yao, Y. Zhang, Y. Wan, X. Liu, X. Yan, and J. Li, “Multi-modal remote sensing image matching considering co-occurrence filter,” IEEE Transactions on Image Processing, vol. 31, pp. 2584–2597, 2022.*
 
 
 ## 📚 Citation
