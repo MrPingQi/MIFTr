@@ -1,8 +1,8 @@
 # MIFTr: Efficient Universal Image Matching with Modality-Invariant Feature Transformer
 
-![image](misc/MIFTr-model.jpg)
-
 Paper Link: http://ieeexplore.ieee.org/document/11480196
+
+![image](misc/MIFTr-model.jpg)
 
 If you have any queries or suggestions, please do not hesitate to contact me (gao-pingqi@qq.com). If you are from China, you may just speak Chinese~ 中国人直接说中文就可以了~
 
