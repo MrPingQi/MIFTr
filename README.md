@@ -12,6 +12,8 @@ Paper Link: http://ieeexplore.ieee.org/document/11480196
 
 ## 📈 Matching Performance
 
+![image](misc/MRSI_display.jpg)
+
 Videos (Youtube):
 
 [![演示视频](https://img.youtube.com/vi/bu4Rvz1PkXo/0.jpg)](https://youtu.be/bu4Rvz1PkXo)
