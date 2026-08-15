@@ -2,7 +2,7 @@
 
 ** The author is now busy with job landing, causing a delay of open-source work. The codes and datasets will be publicly available soon.
 
-- [x] Demo release
+- [x] Testing demo release
 - [ ] Training codes release
 - [ ] Codes optimization
 - [x] Model weights release
