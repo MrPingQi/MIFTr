@@ -1,6 +1,12 @@
 # MIFTr: Efficient Universal Image Matching with Modality-Invariant Feature Transformer
 
-** The author is now busy with graduation, causing a delay of open-source work. The codes and datasets will be publicly available soon.
+** The author is now busy with job landing, causing a delay of open-source work. The codes and datasets will be publicly available soon.
+
+- [x] Demo release
+- [ ] Training codes release
+- [ ] Codes optimization
+- [x] Model weights release
+- [x] Datasets release
 
 Paper Link: http://ieeexplore.ieee.org/document/11480196
 
