@@ -22,8 +22,8 @@ if __name__ == "__main__":
 
     # If image sizes are too small, such as smaller than 384×384, use dgim_256.ckpt; otherwise, use dgim_512.ckpt.
     # Choice: MIFTr full / light model
-    matcher = MIFTr(config=config, model_type='full', pretrained='/weights/miftr_full_tune.ckpt')
-    # matcher = MIFTr(config=config, model_type='light', pretrained='/weights/miftr_light_tune.ckpt')
+    matcher = MIFTr(config=config, model_type='full', pretrained='./weights/miftr_full_tune.ckpt')
+    # matcher = MIFTr(config=config, model_type='light', pretrained='./weights/miftr_light_tune.ckpt')
     
     matcher = matcher.eval().cuda()
     if half_precision:
