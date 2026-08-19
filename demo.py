@@ -46,7 +46,7 @@ if __name__ == "__main__":
         image1_gray = cv2.cvtColor(image1_bgr, cv2.COLOR_BGR2GRAY)
 
         image0, image1, scale0, scale1, mask0, mask1 = scale_limit2(image0_gray, image1_gray,
-                 edge_max=512, edge_min=1, edge_int=edge_int, force_scale=99999, force_size=None, pad_flag=True)
+                 edge_max=512.1, edge_min=1, edge_int=edge_int, force_scale=99999, force_size=None, pad_flag=True)
 
         image0 = torch.from_numpy(image0)[None][None].cuda() / 255
         image1 = torch.from_numpy(image1)[None][None].cuda() / 255
