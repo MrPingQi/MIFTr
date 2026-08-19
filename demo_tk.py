@@ -22,8 +22,8 @@ if __name__ == "__main__":
 
     # If image sizes are too small, such as smaller than 384×384, use dgim_256.ckpt; otherwise, use dgim_512.ckpt.
     # Choice: MIFTr full / light model
-    matcher = MIFTr(config=config, model_type='full', pretrained='./weights/miftr_full_tune.ckpt')
-    # matcher = MIFTr(config=config, model_type='light', pretrained='./weights/miftr_light_tune.ckpt')
+    matcher, edge_int = MIFTr(config=config, model_type='full', pretrained='./weights/miftr_full_tune.ckpt'), 16
+    # matcher, edge_int = MIFTr(config=config, model_type='light', pretrained='./weights/miftr_light_tune.ckpt'), 32
     
     matcher = matcher.eval().cuda()
     if half_precision:
@@ -59,7 +59,7 @@ if __name__ == "__main__":
     image1_gray = cv2.cvtColor(image1_bgr, cv2.COLOR_BGR2GRAY)
 
     image0, image1, scale0, scale1, mask0, mask1 = scale_limit2(image0_gray, image1_gray,
-                edge_max=512, edge_min=1, edge_int=16, force_scale=99999, force_size=None, pad_flag=True)
+                edge_max=512, edge_min=1, edge_int=edge_int, force_scale=99999, force_size=None, pad_flag=True)
 
     image0 = torch.from_numpy(image0)[None][None].cuda() / 255
     image1 = torch.from_numpy(image1)[None][None].cuda() / 255
