@@ -31,7 +31,7 @@ Videos (Youtube):
 
 [![演示视频](https://img.youtube.com/vi/n0W10ZYU7ZA/0.jpg)](https://youtu.be/n0W10ZYU7ZA)
 
-可见光+红外双摄像头的实时匹配
+可见光+红外双摄像头的实时匹配（on a RTX3090）
 
 [![演示视频](https://img.youtube.com/vi/5FIG1X7Zd8k/0.jpg)](https://youtu.be/5FIG1X7Zd8k)
 
